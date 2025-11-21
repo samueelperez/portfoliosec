@@ -11,10 +11,6 @@ export default function Home() {
       {/* Hero Section */}
       <section className="flex-1 flex flex-col justify-center items-center text-center py-24 md:py-32 lg:py-40 space-y-8 px-4 animate-in fade-in zoom-in duration-1000 slide-in-from-bottom-4">
         <div className="space-y-4 max-w-3xl">
-          <div className="inline-flex items-center rounded-full border border-primary/20 bg-primary/5 px-3 py-1 text-sm font-mono text-primary backdrop-blur-sm">
-            <span className="flex h-2 w-2 rounded-full bg-primary mr-2 animate-pulse"></span>
-            Available for hire
-          </div>
           <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-200 to-gray-500">
             Samuel Pérez
           </h1>
